@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523891764 source:c:\users\alumno\desktop\arrayestructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
