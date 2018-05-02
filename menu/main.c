@@ -354,3 +354,37 @@ for(i=0;i<5;i++)
 
     "%d",empleado[j].legajo
     "%s",empleado[j].nombre
+    */
+
+    /*
+
+    muchos a muchos
+
+    generar una tercer estructura con el id del libro y el id del autor
+
+    eLibroEAutor
+    idLibro
+    idAutor
+
+    estructura de autor, y de libro
+
+    cargar en la estructura eLibroEautor
+
+    for(i=0;i<tam_libro;i++)    //libros
+        {
+            for(j=0;<(tam_libro*tam_autores);j++)
+            {
+                if(libros[i].id==libroAutor[j].idLibro)
+                {
+                    for(k=0;k<tam_autores;k++)
+                    {
+                        if(libroAutor[j].idAutor==autores[k].id)
+                        {
+                            printf(i)
+                            printf(k)
+                        }
+                    }
+                }
+            }
+
+        }
